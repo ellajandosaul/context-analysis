@@ -1,0 +1,9 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://ellajandosaul.github.io/context-analysis/annotations/lady-of-shalott-canvas-1-.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+
+  ]
+}

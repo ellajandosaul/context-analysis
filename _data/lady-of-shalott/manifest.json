@@ -16,6 +16,16 @@
         "id": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/canvas-1/canvas",
         "type": "Canvas",
         "duration": 694.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://ellajandosaul.github.io/context-analysis/annotations/lady-of-shalott-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/canvas-1/paintings",
