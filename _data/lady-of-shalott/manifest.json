@@ -5,7 +5,7 @@
     "label": { "en": [ "Lady of Shalott" ] },
     "homepage": [
       {
-        "id": "https://open.spotify.com/",
+        "id": "https://youtube.com/",
         "type": "Text",
         "label": { "en": [ "Lady of Shalott" ] },
         "format": "text/html"
@@ -26,7 +26,7 @@
                 "type": "Annotation",
                 "motivation": "painting",
                 "body": {
-                  "id": "https://open.spotify.com/track/5ZPrtXaVnnx01ZuzNTt7EY?si=c5c42ec74c6c4285",
+                  "id": "https://www.youtube.com/watch?v=80-kp6RDl94",
                     "duration": 694.0
                 },
                 "target": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/canvas-1/canvas"
