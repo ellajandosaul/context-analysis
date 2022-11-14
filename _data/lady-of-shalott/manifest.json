@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Lady of Shalott" ] },
+    "homepage": [
+      {
+        "id": "https://open.spotify.com/",
+        "type": "Text",
+        "label": { "en": [ "Lady of Shalott" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 694.0,
+        "items": [
+          {
+            "id": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://open.spotify.com/track/5ZPrtXaVnnx01ZuzNTt7EY?si=c5c42ec74c6c4285",
+                    "duration": 694.0
+                },
+                "target": "https://ellajandosaul.github.io/context-analysis/lady-of-shalott/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
