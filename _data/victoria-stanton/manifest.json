@@ -5,10 +5,17 @@
     "label": { "en": [ "Victoria Stanton" ] },
     "homepage": [
       {
-        "id": "https://spokenweb.ca/",
+        "id": "https://wordsandmusic.spokenweb.ca/",
         "type": "Text",
         "label": { "en": [ "Victoria Stanton" ] },
         "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://spokenweb.ca/",
+        "type": "Agent",
+        "label": { "en": [ "SpokenWeb" ] }
       }
     ],
     "items": [
