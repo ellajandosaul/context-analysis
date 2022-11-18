@@ -1,0 +1,39 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://ellajandosaul.github.io/context-analysis/victoria-stanton/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Victoria Stanton" ] },
+    "homepage": [
+      {
+        "id": "https://spokenweb.ca/",
+        "type": "Text",
+        "label": { "en": [ "Victoria Stanton" ] },
+        "format": "text/html"
+      }
+    ],
+    "items": [
+      {
+        "id": "https://ellajandosaul.github.io/context-analysis/victoria-stanton/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2293.0,
+        "items": [
+          {
+            "id": "https://ellajandosaul.github.io/context-analysis/victoria-stanton/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://ellajandosaul.github.io/context-analysis/victoria-stanton/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://wordsandmusic.spokenweb.ca/2001/08",
+                    "duration": 2293.0
+                },
+                "target": "https://ellajandosaul.github.io/context-analysis/victoria-stanton/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
